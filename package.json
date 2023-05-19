@@ -1,0 +1,21 @@
+{
+  "name": "backend-json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suraj121704c/backend-Json_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suraj121704c/backend-Json_server/issues"
+  },
+  "homepage": "https://github.com/Suraj121704c/backend-Json_server#readme"
+}
