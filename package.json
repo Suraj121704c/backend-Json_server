@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Suraj121704c/backend-Json_server/issues"
   },
-  "homepage": "https://github.com/Suraj121704c/backend-Json_server#readme"
+  "homepage": "https://github.com/Suraj121704c/backend-Json_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
