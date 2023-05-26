@@ -1,6 +1,7 @@
 const jsonServer = require('json-server')
 const cors = require('cors')
 const path = require('path')
+// this file is used to create a json-server and for deploying it
 
 const server = jsonServer.create()
 const router = jsonServer.router(path.join(__dirname, 'db.json'))
